@@ -2,6 +2,14 @@
 
 ## Setup
 
+Add the following line to your bower.json
+
+```json
+"dependencies": {
+  "cs-d3": "git@github.com:havok2905/csd3.git"
+}
+```
+
 ## Usage
 
 ### Arc
